@@ -1,0 +1,18 @@
+﻿**/build/*/
+build
+
+cmake-build-debug
+cmake-build-release
+
+.idea
+.vscode
+
+
+.class
+
+.o
+a.out
+.dump
+
+# clangd
+**/.cache
